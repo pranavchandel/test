@@ -12,7 +12,7 @@
 <h3 align="center">
   <p>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-    <code>System.out.println("Hello World, I'm Pranav!");</code>
+    System.out.println("Hello World, I'm Pranav!");
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
   </p>
 </h3>
